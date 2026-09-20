@@ -1,2 +1,2 @@
-# Sistem-Kasir
-Aplikasi Web Frontend Only untuk menghitung pembayaran
+# 16-skill-wajib-di-kuasai
+Aplikasi Web Frontend Only untuk belajar pengembangan diri
